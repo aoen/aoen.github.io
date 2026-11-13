@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Test RSS Feed</title>
+    <link>https://username.github.io/rss-feeds/</link>
+    <description>A sample RSS feed for testing GitHub Pages.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>First Test Article</title>
+      <link>https://example.com/article-1</link>
+      <description>This is my first test RSS article.</description>
+      <guid isPermaLink="false">test-article-001</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Second Test Article</title>
+      <link>https://example.com/article-2</link>
+      <description>This is my second test RSS article.</description>
+      <guid isPermaLink="false">test-article-002</guid>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Third Test Article</title>
+      <link>https://example.com/article-3</link>
+      <description>This is my third test RSS article.</description>
+      <guid isPermaLink="false">test-article-003</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
